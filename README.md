@@ -179,7 +179,7 @@ python manage.py runserver
 </details>
 <br>
 
-```For create super admin```
+```For create super user```
 >⚠️ WARNING: <b>*1. First step*</b> REQUIRED before this.
 
 <details>
